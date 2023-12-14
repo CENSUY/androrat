@@ -1,5 +1,5 @@
 **Disclaimer** : This software is meant for educational purposes only. I'm not responsible for any malicious use of the app.
-# AndroRAT 
+# androRAT 
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/karma9874?label=Follow&style=social)](https://twitter.com/karma9874)
@@ -9,7 +9,7 @@ AndroRAT is a tool designed to give the control of the android system remotely a
 
 ##### AndroRAT will work on device from Android 4.1 (Jelly Bean) to Android 9.0 (Oreo) (API 16 to API 28)
 
-> AndroRAT also works on Android 10 (Q) but some of the interpreter command will be unstable. 
+> androRAT also works on Android 10 (Q) but some of the interpreter command will be unstable. 
 
 ## Screenshots
 
@@ -26,12 +26,12 @@ AndroRAT is a tool designed to give the control of the android system remotely a
 
 
 ## Prerequisites
-AndroRAT requires Python3 and JAVA (or Android Studio)
+androRAT requires Python3 and JAVA (or Android Studio)
 
 ## Installation
 ```
 git clone https://github.com/CENSUY/androrat
-cd AndroRAT
+cd androRAT
 pip install -r requirements.txt
 ```
 #### Note: 
